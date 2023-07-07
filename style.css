@@ -11,7 +11,7 @@ body {
     --bg-color-2:#eee;
     --box-shadow:0 .5rem 1.5rem rgba(0,0,0,.1);
     body {
-        background-color: lime;
+        background-color: blue;
       }
 }
 
@@ -49,7 +49,7 @@ body{
     background:var(--bg-color-2);
 }
 body {
-    background-color: lime;
+    background-color: blue;
   }
   
 
